@@ -1,2 +1,2 @@
-NvRStr1kE.github.io
+deletedrus.github.io
 Тестируем гитхаб в качестве хостинга
